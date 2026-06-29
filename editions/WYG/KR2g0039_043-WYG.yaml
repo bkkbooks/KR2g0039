@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0039/WYG/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 題今獻備遺後是編凡四十有二卷計二百四人所可考信者僅僅有此他所遺佚良不知其幾也諸君子者勲名徳業即人人殊要之皆以心術為本而以正直忠厚行之故其立朝也有􅏝􅏝諤諤師師之風其居鄉也有雍雍肅肅温温之度而卑卑庸庸赫赫可喜者不與焉彼之容恱深刻猜媢險僻朝粤暮楚變面易辭者可以觀矣斯編也豈徒善足法哉然則思齊者固内省之一􅂇也譚者乃謂有美無刺紀事之體宜爾豈其然乎癸未至日篤夀再題
+  hash: sha256:99ce54130b4811c9d370e3af77ffd87f4645ce24890a46c8bc530c2f75e9ba6c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0039_WYG_043-1a, image: WYG0453/WYG0453-0722a.png}
+metadata:
+  title: 今獻備遺
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:35:43.666414'
+  juan_title: 題今獻備遺後
+  source:
+    repository: kanripo
+    path: KR2g0039/KR2g0039_043.txt
+hash: sha256:05461305077a39e3c899f1895557bfb4b3e9dd4ce255c4d0d4e803c374e6b7f8
